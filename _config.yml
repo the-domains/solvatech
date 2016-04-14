@@ -1,0 +1,28 @@
+name: SOLVATECH
+favicon: null
+layout_spectrum: 0.7169799979310483
+typography_spectrum: 0.20824331534095109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7048549519386142
+  lightness: 0.4891428519040346
+  saturation: 0.31135002127848566
+  rhythmicContrast: 0.6007595025002956
+purpose: []
